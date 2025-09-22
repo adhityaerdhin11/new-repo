@@ -7,7 +7,9 @@
 </head>
 <body>
   <h1>Welcome to My App</h1>
-  <h1>Fitur Dev</h1>
-
+  <h2>Fitur 1</h2>
+  <h2>Fitur 2</h2>
+  <h3>Fitur 3</h3>
+  <h2>Testing ajah</h2>
 </body>
 </html>
